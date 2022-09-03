@@ -1,0 +1,15 @@
+C:\Users\Гуля\Desktop\repo\lessons\examp002\bin\Debug\net6.0\examp002.exe
+C:\Users\Гуля\Desktop\repo\lessons\examp002\bin\Debug\net6.0\examp002.deps.json
+C:\Users\Гуля\Desktop\repo\lessons\examp002\bin\Debug\net6.0\examp002.runtimeconfig.json
+C:\Users\Гуля\Desktop\repo\lessons\examp002\bin\Debug\net6.0\examp002.dll
+C:\Users\Гуля\Desktop\repo\lessons\examp002\bin\Debug\net6.0\examp002.pdb
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.csproj.AssemblyReference.cache
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.AssemblyInfoInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.AssemblyInfo.cs
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.csproj.CoreCompileInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.dll
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\refint\examp002.dll
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.pdb
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\examp002.genruntimeconfig.cache
+C:\Users\Гуля\Desktop\repo\lessons\examp002\obj\Debug\net6.0\ref\examp002.dll
