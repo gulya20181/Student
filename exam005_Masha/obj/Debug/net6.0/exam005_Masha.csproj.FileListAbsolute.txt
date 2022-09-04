@@ -1,0 +1,15 @@
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\bin\Debug\net6.0\exam005_Masha.exe
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\bin\Debug\net6.0\exam005_Masha.deps.json
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\bin\Debug\net6.0\exam005_Masha.runtimeconfig.json
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\bin\Debug\net6.0\exam005_Masha.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\bin\Debug\net6.0\exam005_Masha.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.csproj.AssemblyReference.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.AssemblyInfoInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.AssemblyInfo.cs
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.csproj.CoreCompileInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\refint\exam005_Masha.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\exam005_Masha.genruntimeconfig.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam005_Masha\obj\Debug\net6.0\ref\exam005_Masha.dll
