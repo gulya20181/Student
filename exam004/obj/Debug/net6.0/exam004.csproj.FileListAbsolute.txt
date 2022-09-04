@@ -1,0 +1,15 @@
+C:\Users\Гуля\Desktop\repo\lessons\exam004\bin\Debug\net6.0\exam004.exe
+C:\Users\Гуля\Desktop\repo\lessons\exam004\bin\Debug\net6.0\exam004.deps.json
+C:\Users\Гуля\Desktop\repo\lessons\exam004\bin\Debug\net6.0\exam004.runtimeconfig.json
+C:\Users\Гуля\Desktop\repo\lessons\exam004\bin\Debug\net6.0\exam004.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam004\bin\Debug\net6.0\exam004.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.csproj.AssemblyReference.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.AssemblyInfoInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.AssemblyInfo.cs
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.csproj.CoreCompileInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\refint\exam004.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\exam004.genruntimeconfig.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam004\obj\Debug\net6.0\ref\exam004.dll
