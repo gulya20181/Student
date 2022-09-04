@@ -1,0 +1,15 @@
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\bin\Debug\net6.0\exam006_Base.exe
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\bin\Debug\net6.0\exam006_Base.deps.json
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\bin\Debug\net6.0\exam006_Base.runtimeconfig.json
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\bin\Debug\net6.0\exam006_Base.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\bin\Debug\net6.0\exam006_Base.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.csproj.AssemblyReference.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.AssemblyInfoInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.AssemblyInfo.cs
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\refint\exam006_Base.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\exam006_Base.genruntimeconfig.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam006_Base\obj\Debug\net6.0\ref\exam006_Base.dll
