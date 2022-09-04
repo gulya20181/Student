@@ -1,0 +1,15 @@
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.csproj.AssemblyReference.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.AssemblyInfoInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.AssemblyInfo.cs
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.csproj.CoreCompileInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\bin\Debug\net6.0\exam007_while.exe
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\bin\Debug\net6.0\exam007_while.deps.json
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\bin\Debug\net6.0\exam007_while.runtimeconfig.json
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\bin\Debug\net6.0\exam007_while.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\bin\Debug\net6.0\exam007_while.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\refint\exam007_while.dll
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.pdb
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\exam007_while.genruntimeconfig.cache
+C:\Users\Гуля\Desktop\repo\lessons\exam007_while\obj\Debug\net6.0\ref\exam007_while.dll
