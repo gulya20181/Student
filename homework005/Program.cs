@@ -3,7 +3,7 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 Console.WriteLine("введите число");
-int num = int.Parse(Console.ReadLine());
+int num = Convert.ToInt32(Console.ReadLine());
 int first =num, second =num;
 if (num < 100 & num > -100) 
 Console.WriteLine("третьего числа нет");
