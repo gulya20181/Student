@@ -1,0 +1,15 @@
+C:\Users\Гуля\Desktop\repo\lessons\homework014\bin\Debug\net6.0\homework014.exe
+C:\Users\Гуля\Desktop\repo\lessons\homework014\bin\Debug\net6.0\homework014.deps.json
+C:\Users\Гуля\Desktop\repo\lessons\homework014\bin\Debug\net6.0\homework014.runtimeconfig.json
+C:\Users\Гуля\Desktop\repo\lessons\homework014\bin\Debug\net6.0\homework014.dll
+C:\Users\Гуля\Desktop\repo\lessons\homework014\bin\Debug\net6.0\homework014.pdb
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.csproj.AssemblyReference.cache
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.AssemblyInfoInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.AssemblyInfo.cs
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.csproj.CoreCompileInputs.cache
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.dll
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\refint\homework014.dll
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.pdb
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\homework014.genruntimeconfig.cache
+C:\Users\Гуля\Desktop\repo\lessons\homework014\obj\Debug\net6.0\ref\homework014.dll
